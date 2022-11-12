@@ -6,7 +6,7 @@ public class Calculator {
         System.out.println(multiply(5, 5));
         System.out.println(divide(5, 2));
         System.out.println("concatenation is:" + (stringFunction("Neetu", 10, 7)));
-    }
+   }
 
     public static int add(int a, int b) {
         int c = a + b;
