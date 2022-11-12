@@ -9,7 +9,6 @@ public class Calculator {
     }
 
     public static int add(int a, int b) {
-        ghjkl
         int c = a + b;
         return c;
     }
